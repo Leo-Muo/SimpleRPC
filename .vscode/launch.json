@@ -1,0 +1,41 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Canteen",
+            "type": "coreclr",
+            "request": "launch",           
+            "preLaunchTask": "build-Server",
+            "program": "${workspaceFolder}/Canteen/bin/Debug/net6.0/Canteen.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Canteen",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Baker",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-Baker",
+            "program": "${workspaceFolder}/Baker/bin/Debug/net6.0/Baker.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Baker",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Eater",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-Eater",
+            "program": "${workspaceFolder}/Eater/bin/Debug/net6.0/Eater.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Eater",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}

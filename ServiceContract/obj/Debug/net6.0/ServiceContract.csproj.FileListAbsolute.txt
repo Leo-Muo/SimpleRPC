@@ -1,0 +1,12 @@
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\obj\Debug\net6.0\ServiceContract.csproj.AssemblyReference.cache
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\obj\Debug\net6.0\ServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\obj\Debug\net6.0\ServiceContract.AssemblyInfoInputs.cache
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\obj\Debug\net6.0\ServiceContract.AssemblyInfo.cs
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\obj\Debug\net6.0\ServiceContract.csproj.CoreCompileInputs.cache
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\bin\Debug\net6.0\ServiceContract.deps.json
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\bin\Debug\net6.0\ServiceContract.dll
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\bin\Debug\net6.0\ServiceContract.pdb
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\obj\Debug\net6.0\ServiceContract.dll
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\obj\Debug\net6.0\refint\ServiceContract.dll
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\obj\Debug\net6.0\ServiceContract.pdb
+C:\Users\downw\Documents\DD\Lab1\ServiceContract\obj\Debug\net6.0\ref\ServiceContract.dll
